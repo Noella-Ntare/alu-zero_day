@@ -1,0 +1,21 @@
+Starting to code today, so cool
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   best
+#	new file:   school
+#
+# Changes not staged for commit:
+#	deleted:    ../../bash/best
+#	deleted:    ../../bash/school
+#	deleted:    ../../c/c_is_fun.c
+#	deleted:    ../../js/index.js
+#	deleted:    ../../js/main.js
+#
+# Untracked files:
+#	../js/
+#
